@@ -6,9 +6,10 @@
 - 🤔 I'm looking for help with A.I.s and Data Analysis, if you think you can help me, don't hesitate to send me an email or a message on LinkedIn
 - 📫 How to reach me: email: matheusrochacamarg@gmail.com / LinkedIn: https://www.linkedin.com/in/mat-/
 - 💭 “Luck is what happens when preparation meets opportunity.” -Seneca
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat-zip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-zip&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/mat-zip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat-zip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-zip&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
