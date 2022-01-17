@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently studying Sistemas para Internet at UTFPR
-- 🌱 I’m currently learning Javascript, Node.Js, React, Next, MySQL and PostgreSQL
+- 🌱 I’m currently learning Javascript, Node.Js, Vue.js, Next, MySQL and PostgreSQL
 - 👯 I'm looking to collaborate on open source projects that will improve other people's lives.
 - 📫 How to reach me: email: matheusrochacamarg@gmail.com / LinkedIn: https://www.linkedin.com/in/mat-/
 - 💭 “Luck is what happens when preparation meets opportunity.” -Seneca
