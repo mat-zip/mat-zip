@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/mat-zip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat-zip&show_icons=true&theme=cobalt"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-zip&layout=compact&title_color=c577c2&icon_color=f9f9f9&text_color=72e8ae&bg_color=193549"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrc-dev&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrc-dev&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
