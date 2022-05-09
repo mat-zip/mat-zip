@@ -8,7 +8,7 @@
 <!--- 🤔 I'm looking for help with A.I.s and Data Analysis, if you think you can help me, don't hesitate to send me an email or a message on LinkedIn-->
 
 <div align="center">
-  <a href="https://github.com/mat-zip">
+  <a href="https://github.com/matheusrc-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrc-dev&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrc-dev&layout=compact&theme=dark"/>
 </div>
